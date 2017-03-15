@@ -32,6 +32,7 @@
 /* 1. IMPORT SECTION */
 
 	@import url("http://fonts.googleapis.com/css?family=Raleway:200,300,600,700&subset=latin,latin-ext");
+    @import url("http://fonts.googleapis.com/css?family=Hind:300,400,500,600,700");
 
 
 
@@ -43,7 +44,7 @@
 	}
 
 	body {
-		font-family: "Raleway", Helvetica, Arial, sans-serif;
+		font-family: "Raleway", Helvetica, "Hind", sans-serif;
 		font-size: 14px;
 		font-weight: 200;
 		line-height: 1.7857;
@@ -770,6 +771,7 @@
 	#contact{
 		padding-top: 130px;
 		padding-bottom: 120px;
+        background-color: #fff;
 	}
 	
 	.contact-info .contact-content{
