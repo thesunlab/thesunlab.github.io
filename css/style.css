@@ -1903,7 +1903,7 @@ fieldset[disabled] .s-btn {
   font-size: 0.8125rem;
   font-weight: 700;
   font-family: Montserrat, sans-serif;
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 1);
   line-height: 5.5rem;
   text-transform: uppercase;
   margin: 0 .9rem;
@@ -1913,7 +1913,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header-v2__nav-link:hover {
-  color: #fff;
+  color: rgba(255, 255, 255, 0.75);
 }
 
 .s-header-v2__nav-link:focus {
