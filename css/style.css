@@ -2379,7 +2379,7 @@ fieldset[disabled] .s-btn {
 	display:grid;
 	grid-template-columns: 
 repeat(2, minmax(200px,1fr));
-	gap: 15px;
+	gap: 10px;
 }
 
 img { 
