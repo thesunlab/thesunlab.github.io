@@ -2373,3 +2373,18 @@ fieldset[disabled] .s-btn {
 .s-swiper__pagination-v1--dark .swiper-pagination-bullet-active {
   background: #13b1cd;
 }
+
+/* Photo Gallery */
+.gallery-container {
+	display:grid;
+	grid-template-columns: 
+repeat(3, minmax(200px,1fr));
+	gap: 15px;
+}
+
+img { 
+	width: 100%;
+height:auto;
+}
+
+
