@@ -2374,17 +2374,6 @@ fieldset[disabled] .s-btn {
   background: #13b1cd;
 }
 
-/* Photo Gallery */
-.gallery-container {
-	display:grid;
-	grid-template-columns: 
-repeat(2, minmax(150px,1fr));
-	gap: 10px;
-}
 
-img { 
-	width: 100%;
-height:auto;
-}
 
 
